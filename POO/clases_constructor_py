@@ -1,0 +1,14 @@
+class coche():
+
+    def __init__(self,ruedas,color):
+        self.color = color
+        self.ruedas = ruedas
+
+
+    def arrancar(self):
+        print("brum brum")
+
+fiatpanda = coche(4, "Rojo")
+
+print(fiatpanda.ruedas)
+print(fiatpanda.color)
