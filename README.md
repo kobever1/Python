@@ -7,4 +7,6 @@ Ademas incluyo modulos de estudio del curso de Linkedin Python Avanzado
 
 Agregando info a la branch.
 
-esta info es de la branch nueva "test"
+esta info es de la branch nueva "test".
+
+agregando mas info a la rama "test".
